@@ -11,6 +11,7 @@ img {
 
 .p-TempsDiffBonMarche {
     text-align: center;
+    display: inline-block;
 }
 
 /* .facebook-button {
